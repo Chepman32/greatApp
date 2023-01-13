@@ -1,4 +1,4 @@
-package com.greatapp.newarchitecture.components;
+package com.antonChepur.justRelaxApp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

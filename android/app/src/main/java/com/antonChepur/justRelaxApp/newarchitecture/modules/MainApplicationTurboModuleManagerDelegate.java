@@ -1,4 +1,4 @@
-package com.greatapp.newarchitecture.modules;
+package com.antonChepur.justRelaxApp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
@@ -41,7 +41,7 @@ public class MainApplicationTurboModuleManagerDelegate
     if (!sIsSoLibraryLoaded) {
       // If you change the name of your application .so file in the Android.mk file,
       // make sure you update the name here as well.
-      SoLoader.loadLibrary("greatapp_appmodules");
+      SoLoader.loadLibrary("justrelax_appmodules");
       sIsSoLibraryLoaded = true;
     }
   }

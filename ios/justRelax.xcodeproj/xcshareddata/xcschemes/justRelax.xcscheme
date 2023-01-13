@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "greatApp.app"
-               BlueprintName = "greatApp"
-               ReferencedContainer = "container:greatApp.xcodeproj">
+               BuildableName = "justRelax.app"
+               BlueprintName = "justRelax"
+               ReferencedContainer = "container:justRelax.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "greatAppTests.xctest"
-               BlueprintName = "greatAppTests"
-               ReferencedContainer = "container:greatApp.xcodeproj">
+               BuildableName = "justRelaxTests.xctest"
+               BlueprintName = "justRelaxTests"
+               ReferencedContainer = "container:justRelax.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "greatApp.app"
-            BlueprintName = "greatApp"
-            ReferencedContainer = "container:greatApp.xcodeproj">
+            BuildableName = "justRelax.app"
+            BlueprintName = "justRelax"
+            ReferencedContainer = "container:justRelax.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "greatApp.app"
-            BlueprintName = "greatApp"
-            ReferencedContainer = "container:greatApp.xcodeproj">
+            BuildableName = "justRelax.app"
+            BlueprintName = "justRelax"
+            ReferencedContainer = "container:justRelax.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
